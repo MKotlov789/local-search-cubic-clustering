@@ -1,4 +1,4 @@
-# local-search-cubic-clustering
+#  local Search Algorithm for Cubic Clustering
 
  This repository contains classes and code related to the cubic partition problem, a fundamental task in subspace clustering. Subspace clustering is a technique used to estimate the number and normal vectors of planes from a set of noisy point samples in 3D space.
 This repository presents the implementation of the educational project "A local Search Algorithm for Cubic Clustering" provided by the Machine Learning for Computer Vision
